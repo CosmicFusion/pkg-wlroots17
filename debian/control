@@ -13,7 +13,7 @@ Build-Depends:
  libgbm-dev (>= 17.1.0),
  libgles2-mesa-dev,
  libinput-dev (>= 1.9.0),
- libdisplayinfo-dev,
+ libdisplay-info-dev,
  libpixman-1-dev,
  libpng-dev,
  libseat-dev,
