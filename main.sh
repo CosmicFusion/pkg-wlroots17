@@ -8,6 +8,8 @@ cd ./wlroots
 # Get build deps
 apt-get build-dep ./ -y
 
+LOGNAME=root dh_make --createorig -y -l -p ./wlroots_0.17.1
+
 # Build package
 dpkg-buildpackage --no-sign
 
