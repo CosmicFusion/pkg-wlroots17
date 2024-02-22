@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Clone Upstream
-git clone https://gitlab.freedesktop.org/wlroots/wlroots -b 0.16.2
+git clone https://gitlab.freedesktop.org/wlroots/wlroots -b 0.17.0
 cp -rvf ./debian ./wlroots
 cd ./wlroots
 
