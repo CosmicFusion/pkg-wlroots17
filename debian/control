@@ -5,7 +5,7 @@ Uploaders: Guido Günther <agx@sigxcpu.org>, Birger Schacht <birger@rantanplan.o
 Build-Depends:
  debhelper-compat (= 13),
  glslang-tools,
- hwdata,
+ hwdata-dev,
  libcap-dev,
  libcairo2-dev,
  libdisplay-info-dev (>= 0.1.1),
